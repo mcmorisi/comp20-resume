@@ -1,37 +1,42 @@
 html {
-		font-family: 'Helvetica';
+    font-family: "Helvetica";
 }
 
 h1 {
-	text-align: center;
-	font-weight: bold;
+    text-align: center;
+    font-weight: bold;
 }
 
 h2 {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
-#nav {
-    font-family: 'Trebuchet MS';
+p {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#navigation {
+    font-family: "Trebuchet MS";
     font-weight: bold;
     font-style: italic;
-	text-align: center;
-	line-height: 70%;
-	border-bottom: solid;
-    font-weight: 
+    text-align: center;
+    line-height: 70%;
+    border-bottom: solid;
 }
 
 #header-mid {
-	text-align: center;
-	line-height: 70%;
+    text-align: center;
+    line-height: 70%;
 }
 
 #header-left {
-	line-height: 70%;
+    text-align: left;
+    line-height: 70%;
 }
 
 #header-right {
-	float: right;
-	line-height: 70%;
-
+    float: right;
+    line-height: 70%;
 }
