@@ -12,9 +12,7 @@ h2 {
 }
 
 p {
-    text-align: center;
-    margin-left: 25%;
-    margin-right: 25%;
+
 }
 
 #navigation {
@@ -31,12 +29,18 @@ p {
     line-height: 70%;
 }
 
-#header-left {
-    text-align: left;
-    line-height: 70%;
+#bio {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 #header-right {
     float: right;
     line-height: 70%;
 }
+
+#header-left {
+    line-height: 70%;
+}
+
