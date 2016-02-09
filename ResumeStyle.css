@@ -1,5 +1,6 @@
 html {
     font-family: "Helvetica";
+    background-color: LightGray;
 }
 
 h1 {
@@ -11,13 +12,14 @@ h2 {
     text-decoration: underline;
 }
 
-p {
-
+#centered-image {
+    text-align: center;
 }
 
 #navigation {
     font-family: "Trebuchet MS";
     font-weight: bold;
+    font-size: 150%;
     font-style: italic;
     text-align: center;
     line-height: 70%;
